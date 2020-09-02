@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/govau/design-system-sketch-file#readme",
   "devDependencies": {
-    "bestzip": "^2.1.4",
+    "bestzip": "^2.1.7",
     "kactus-cli": "^0.5.7"
   },
   "contributors": [
